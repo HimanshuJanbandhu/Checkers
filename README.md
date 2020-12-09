@@ -1,0 +1,2 @@
+# Checkers
+Using MinMax Algorithm
